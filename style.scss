@@ -1,0 +1,168 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: #ffecd1;
+    text-align: left;
+}
+
+
+.hero{
+    padding: 0;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(videos/jeutd.gif);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    .degrade{
+    position: absolute;
+    bottom: 0;
+    height: 10%;
+    width: 100%;
+    background: linear-gradient(0deg, rgba(0,21,36,1) 0%, rgba(0,212,255,0) 100%);
+
+}
+}
+.container{
+    border-radius: 50px;
+    padding: 5%;
+filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
+}
+
+.resume , .web{
+    background-color: #001524;
+    padding: 3%;
+    filter: blur(10%);
+    .container, .container-fluid{
+background-color: #15616d;
+
+
+    }
+}
+.jeuxVideo{
+    padding: 5%;
+
+    background-color: #78290f;
+
+    .container{
+
+        background-color: #ff7d00;
+
+    }
+}
+
+.jeuxvideoportfolio{
+    background-color: #78290f;
+    height: 10vh;
+    padding: 10%;
+    border-radius: 0;
+    filter: none;
+}
+
+.ContenirGrid{
+    text-align: center;
+    width: 100%;
+}
+
+.bleubg{
+    background-color: #001524 !important ;
+}
+img{
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+
+
+.carousel-control-prev-icon{
+background-color: black;
+border-radius: 20px;
+filter: brightness(50);
+
+}
+.carousel-control-next-icon{
+    background-color: black;
+    border-radius: 20px;
+    filter: brightness(50);
+
+    }
+
+    .hero--description{
+        h1{
+            text-align: right ; 
+
+            font-size: 15vh;
+            filter: drop-shadow(0.5vh 0vw 0.5vh #ff7d00
+            )drop-shadow(-0.5vh 0vw 0.5vh #78290f
+            )drop-shadow(0vw 0vw 0.5vh #000000
+            );
+        }
+        p{
+            text-align: right ; 
+
+            filter: drop-shadow(0.15vh 0vw 0.4vh #001524 ) drop-shadow(-0.15vh 0vw #0095ff ) drop-shadow(0vw 0vw 0.4vh #000000 )  ;
+            font-size: 7vh;
+        }
+        height: 100vh;
+        background-color: #0015248c;
+        padding: 10%;
+    }
+
+    .IframeContainer{
+        iframe{
+            width: 100%;
+            height: 60vh;
+        }
+    }
+
+    .modal-body,.modal-title{
+        color: black !important ;
+        p{
+            color: black ;
+
+        }
+    }
+
+    .videoMoi{
+        max-width: 100%;
+        max-height: 100%;
+
+    }
+
+    .iconPartenaire{
+        width: 20%;
+    }
+    .infomoi{
+        padding: 2%;
+    }
+
+    strong{
+        color: #ff7d00;
+    }
+    .personnevaapppuyerladessuseveranyway{
+        color: #ff7d00;
+    }
+
+    .cametentepas{
+        img{
+            width: 20%;
+        }
+        .yipyip{
+            width: 50%;
+        }
+    }
+
+    #carouselExampleDark {
+        h2{
+            color: black;
+        }
+    }
+
+
+    .carousel.carousel-dark.slide .yipyip{
+
+            color: black;
+        
+    }
