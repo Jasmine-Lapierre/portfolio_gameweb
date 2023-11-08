@@ -152,4 +152,8 @@ strong {
 
 .email {
   font-size: 3vh;
+}
+
+.Appuyer div div img {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
