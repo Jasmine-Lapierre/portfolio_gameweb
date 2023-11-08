@@ -5,8 +5,9 @@
     color: #ffecd1;
     text-align: left;
 }
-
-
+body{
+    overflow-x: hidden;
+}
 .hero{
     padding: 0;
     position: relative;
@@ -165,4 +166,8 @@ filter: brightness(50);
 
             color: black;
         
+    }
+
+    .email{
+        font-size: 3vh;
     }
