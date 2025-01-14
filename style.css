@@ -94,13 +94,13 @@ img {
 @media only screen and (max-width: 600px) {
 .hero--description h1 {
   text-align: right;
-  font-size: 25vw;
+  font-size: 20vw;
   filter: drop-shadow(0.5vh 0vw 0.5vh #ff7d00) drop-shadow(-0.5vh 0vw 0.5vh #78290f) drop-shadow(0vw 0vw 0.5vh #000000);
 }}
 @media only screen and (min-width: 601px) {
 .hero--description h1 {
   text-align: right;
-  font-size: 10vw;
+  font-size: 14vw;
   filter: drop-shadow(0.5vh 0vw 0.5vh #ff7d00) drop-shadow(-0.5vh 0vw 0.5vh #78290f) drop-shadow(0vw 0vw 0.5vh #000000);
 }}
 
