@@ -16,6 +16,7 @@ body {
   width: 100vw;
   height: 90vh;
   background-image: url(videos/jeutd.gif);
+  background-color: #001524;
   -o-object-fit: contain;
      object-fit: contain;
   background-repeat: no-repeat;
